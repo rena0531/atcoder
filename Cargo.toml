@@ -5,7 +5,7 @@ edition = "2018"
 
 [[bin]]
 name = "main"
-path = "src/ABC176/main.rs"
+path = "src/main.rs"
 
 [dependencies]
 proconio = { version = "0.4.3", features = ["derive"] }
