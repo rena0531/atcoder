@@ -1,2 +1,2 @@
-# atcorder
-RustでAtCorderを解く
+# atcoder
+RustでAtCoderを解く
